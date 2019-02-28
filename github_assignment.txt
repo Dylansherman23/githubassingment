@@ -1,0 +1,13 @@
+The Foialawya repository was very interesting to me.
+Here is the link to the repository: https://github.com/newsdev/foialawya
+I think that this is a really cool app, that is helpful specifically for journalists.
+It is basically a FOIA reminder for journalists so that they know when something is overdue, and what needs to be done next.
+I am not really sure as to how it works, but it is used within another program called Django.
+I like how this is something practical for all journalists as well, not just something that experienced coders would want to use.
+One obvious limitation would be the ease of use.
+I haven't tried to use it, because I don't really know how.
+There is a pretty detailed explanation on the repository, however it is not detailed enough for us coding novices.
+One improvement for this would probably be making the description more accessible for us journalists who are still learning code, or have never used code before.
+It also looks like it is not specifically for one journalist to use at a time, but a managing system that a team/newsroom uses so that they do not duplicate FOIA requests.
+This app looks like it can really help to streamline the FOIA waiting process and I am curious as to how many newsrooms use some kind of app specifically for tracking FOIAs.
+Another aspect is that it allows the newsroom lawyer to have access as well, which allows them to be on top of when a lawsuit over a request needs to be submitted.
